@@ -1,0 +1,7 @@
+Alpha that has a minimum error is     -0.110000
+Errors for all alphas
+      10.6407      7.43854      37.8794      45.7482      34.1750      31.7406
+      23.7125      14.4204      4.76899      3.10363      1.16978      3.34948
+      5.81370
+{max, mean, min, std.dev.} of Error
+      45.7482      17.2278      1.16978      15.4444
